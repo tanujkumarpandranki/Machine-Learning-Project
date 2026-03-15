@@ -1,1 +1,43 @@
+# 💳 Credit Card Fraud Detection
 
+## 📌 Project Description
+This project analyzes credit card transaction data to detect **fraudulent transactions using Machine Learning**.
+The goal is to identify suspicious transactions and help prevent financial loss.
+
+Exploratory Data Analysis (**EDA**) was performed to understand the dataset.
+**XGBoost model** was used to classify transactions as **fraudulent or legitimate**.
+
+## 🔍 Analysis Performed
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Fraud vs normal transaction comparison
+- Data visualization using **Matplotlib** and **Seaborn**
+
+## 🤖 Model Used
+**XGBoost Classifier**
+
+The model learns patterns from transaction data and predicts whether a transaction is **fraud or normal**.
+
+## 📊 Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- Confusion Matrix
+
+## 🛠 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## 👨‍💻 Author
+**Tanuj Kumar Pandranki**  
+Machine Learning Enthusiast
+  
+## 🔗 Project Link
+GitHub Repository:  
+https://github.com/tanujkumarpandranki/Machine-Learning-Project
