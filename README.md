@@ -100,4 +100,4 @@ credit-card-fraud-detection
 **Tanuj Kumar**  
 B.Tech CSE (AI & ML)
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/tanujkumarpandranki/Machine-Learning-Project
